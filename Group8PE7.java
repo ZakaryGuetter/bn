@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//github
 public class Group8PE7
 {
 	public static void main(String[] args) 
